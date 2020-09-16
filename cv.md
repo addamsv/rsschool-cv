@@ -13,31 +13,27 @@
 ## TECHNICAL EXPERTISE
 ### Programing Languages:
 * Technology		 
-	* Java		
 	* JavaScript	
-	* SQL		
 	* HTML	
 	* CSS		
-	* Perl
 	* PHP
-	* C/C++	
-	* Design patterns
+	* Perl
+	* C/C++
+	* Java		
+	* SQL		
 ### Java Technologies:
 * Servlets/JSP	
 * JDBC
-* REST
 * Java Tools/IDE:
     * Eclipse		
     * IntelliJ IDEA
     * Android SDK
-    * DbVisualiser
     * MySQL Workbench
+    * DbVisualiser
 * Middleware:
-	* Tomcat		
-	* Glass Fish
+	* Tomcat
 * XML Technologies:
 	* XML,XSL,XML-Schema
-	* SAX/DOM models
 ### Platforms:
 * Windows
 * OSx
