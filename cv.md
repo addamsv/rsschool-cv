@@ -27,15 +27,15 @@
 * JDBC
 * REST
 * Java Tools/IDE:
-* Eclipse		
-* IntelliJ IDEA
-* Android SDK
-* DbVisualiser
-* MySQL Workbench
+    * Eclipse		
+    * IntelliJ IDEA
+    * Android SDK
+    * DbVisualiser
+    * MySQL Workbench
 * Middleware:
 	* Tomcat		
 	* Glass Fish
-	* XML Technologies:
+* XML Technologies:
 	* XML,XSL,XML-Schema
 	* SAX/DOM models
 ### Platforms:
